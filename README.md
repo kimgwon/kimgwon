@@ -1,14 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=kimgwon&fontSize=60&fontAlign=78&fontAlignY=38)
 
-<br><br>
+<br>
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimgwon)](https://github.com/kimgwon/github-readme-stats)
 
 </div>
 <br>
-
-<br><br>
 
 <div align="center">
   <h2>🛠️ Tech 🛠️</h2>
