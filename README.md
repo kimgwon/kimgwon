@@ -1,6 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=kimgwon&fontSize=60&fontAlign=78&fontAlignY=38)
 
 <br><br>
+<div align="center">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimgwon)](https://github.com/kimgwon/github-readme-stats)
+
+</div>
+<br>
+
+<br><br>
 
 <div align="center">
   <h2>🛠️ Tech 🛠️</h2>
@@ -29,5 +37,7 @@
   </a>
   <a href="https://www.instagram.com/keemjiwon/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
   </a>
-  <a href="mailto:xkqehdwldnjs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xkqehdwldnjs@gmail.com"/></a>
+  <a href="mailto:xkqehdwldnjs@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xkqehdwldnjs@gmail.com"/></a>
 </div>
+
+<br><br>
