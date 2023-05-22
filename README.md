@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <h2>🛠️ Tech 🛠️</h2>
+  <h2>🛠️ Skill 🛠️</h2>
   <img src="https://img.shields.io/badge/PyThon-3776AB?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
