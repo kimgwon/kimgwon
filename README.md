@@ -29,7 +29,7 @@
 <br><br>
 
 <div align="center">
-  <h2>:speech_balloon: Contact :speech_balloon:</h2>
+  <h2>💬 Contact 💬</h2>
   <a href="https://velog.io/@kimgwon"> 
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white">
   </a>
